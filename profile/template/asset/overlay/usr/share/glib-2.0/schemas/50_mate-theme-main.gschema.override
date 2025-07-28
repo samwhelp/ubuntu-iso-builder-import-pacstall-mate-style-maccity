@@ -6,7 +6,7 @@ theme='MacTahoe-Dark'
 
 [org.mate.interface]
 gtk-theme='MacTahoe-Dark'
-icon-theme='Citrus-red-dark'
+icon-theme='MacTahoe-dark'
 #icon-theme='Numix-Circle'
 
 
